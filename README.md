@@ -33,6 +33,6 @@ There are 4 datasets:
 
 # Reference
 
-> "gle.com/tigerli1997/a-b-test-on-e-commerce-website"
-> "https://github.com/aryankashyap0/collaborative-filtering-python"
+* "gle.com/tigerli1997/a-b-test-on-e-commerce-website"
+*  "https://github.com/aryankashyap0/collaborative-filtering-python"
 
